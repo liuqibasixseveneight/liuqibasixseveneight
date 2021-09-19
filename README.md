@@ -4,13 +4,10 @@
 
 <!-- Profile bio -->
 ## 🔭 About me
-I'm a Front-End Developer working primarily in React JS. I'm currently working on a `social-network-template` built in a MERNG (MongoDB, Express, React, Node, GraphQL) stack which can be found [here](https://github.com/liuqibasixseveneight/social-network-template)
+I'm a Front-End Developer working primarily in React JS. I'm currently working on `codesplanation` (a personal project) which can be found [here](https://github.com/liuqibasixseveneight/codesplanation)
 
 ## 🌱 Currently learning
-I'm forever learning, but my primary focus at the moment is getting better at:
-  - The MERNG stack (hence the `social-network-template` project [found here](https://github.com/liuqibasixseveneight/social-network-template)!)
-  - Backend development
-  - Designing UX/UI and prototyping (mostly using Figma for now)
+I'm forever learning, but my primary focus at the moment is in improving my Frontend skills
 
 ## 🤔 Can you help me?
 I'm always looking to improve, and I welcome any criticism or suggestions you might have! Please feel free to comment on my code, my approach or anything else if you think it'd be constructive!
